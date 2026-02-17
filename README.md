@@ -24,7 +24,7 @@ This course teaches you how to build production-ready AI agents and workflows us
 |---|----------|-------|--------------|
 | 1 | [From Prompts to Workflows](notebooks/1_prompts_vs_workflows.ipynb) | From Prompts to Workflows | Single prompt vs. generate → critique → refine graph |
 | 2 | [LangGraph Basics](notebooks/2_langgraph_basics.ipynb) | LangGraph Core Primitives | `StateGraph`, `TypedDict`, `add_messages`, conditional edges, checkpoints |
-| 3 | [Tools and ReAct](notebooks/3_tools_and_agents.ipynb) | Tools, ReAct Agents, MCP | `@tool`, `create_agent`, manual ReAct, MCP integration with custom server |
+| 3 | [Tools and Agents](notebooks/3_tools_and_agents.ipynb) | Tools, ReAct Agents, MCP | `@tool`, `create_agent`, manual ReAct, MCP integration with custom server |
 | 4 | [RAG Workflow](notebooks/4_rag_workflow.ipynb) | RAG as a LangGraph Workflow | Ingestion pipeline (scrape → chunk → embed), Chroma + HuggingFace embeddings, document grading, web search fallback |
 | 5 | [Middleware](notebooks/5_middleware.ipynb) | Context Engineering | `SummarizationMiddleware`, `HumanInTheLoopMiddleware`, `ModelCallLimitMiddleware`, custom `GuardrailMiddleware` |
 | 6 | [Evaluation](notebooks/6_evaluation.ipynb) | Agent Evaluation | LLM-as-judge, trajectory scoring, evaluation-in-the-loop, self-correcting agents, multi-model comparison |
