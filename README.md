@@ -2,9 +2,7 @@
 
 # Building AI Agents and Workflows with LangGraph
 
-This repository contains code for my live course: [O'Reilly Live Online Training - Building AI Agents and Workflows with LangGraph](https://learning.oreilly.com/live-events/building-ai-agents-and-workflows-with-langgraph/)
-
-**O'Reilly Live Training** | 4 hours | Feb 18, 9am-1pm PST
+This repository contains code for my live course: [O'Reilly Live Online Training - Building AI Agents and Workflows with LangGraph](https://www.oreilly.com/live-events/building-ai-agents-and-workflows-with-langgraph/0642572283223)
 
 **Instructor:** Sinan Ozdemir
 
@@ -91,4 +89,4 @@ Embeddings in the RAG notebook use **HuggingFace** (`all-MiniLM-L6-v2`) — runs
 
 ## Instructor
 
-Sinan Ozdemir — [LinkedIn](https://linkedin.com/in/sinanozdemir) | [GitHub](https://github.com/sinanuozdemir) | [AI Office Hours](https://ai-office-hours.beehiiv.com/)
+Sinan Ozdemir — [LinkedIn](https://linkedin.com/in/sinanozdemir) | [GitHub](https://github.com/sinanuozdemir) | [AI Office Hours](https://ai-office-hours.beehiiv.com/) | [Building Agentic AI Substack](https://profoz.substack.com/)
