@@ -1,6 +1,5 @@
 langchain>=1.0.0a
 langchain-openai
-langchain-anthropic
 langchain-community
 langgraph
 langsmith
